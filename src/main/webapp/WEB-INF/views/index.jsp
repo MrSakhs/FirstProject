@@ -47,6 +47,7 @@
         <div class="text">
           <h1>Congratulations!</h1>
           <h2>You just created a Java Spring web application.</h2>
+          <h2>I have just made a second commit to trigger an update</h2>
         </div>
       </div>
     </div>
